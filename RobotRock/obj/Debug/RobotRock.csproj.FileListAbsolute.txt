@@ -1,0 +1,6 @@
+D:\Documents\DevCodeCamp\RobotRock\RobotRock\bin\Debug\RobotRock.exe.config
+D:\Documents\DevCodeCamp\RobotRock\RobotRock\bin\Debug\RobotRock.exe
+D:\Documents\DevCodeCamp\RobotRock\RobotRock\bin\Debug\RobotRock.pdb
+D:\Documents\DevCodeCamp\RobotRock\RobotRock\obj\Debug\RobotRock.csprojResolveAssemblyReference.cache
+D:\Documents\DevCodeCamp\RobotRock\RobotRock\obj\Debug\RobotRock.exe
+D:\Documents\DevCodeCamp\RobotRock\RobotRock\obj\Debug\RobotRock.pdb
